@@ -40,11 +40,11 @@ div {
     }
 
     .medium div.col-1 {
-        width: 50%;
+        width: 66.6666%;
     }
 
     .medium div.col-2 {
-        width: 50%;
+        width: 33.3333%;
     }
 
     .medium div.col-3 {
